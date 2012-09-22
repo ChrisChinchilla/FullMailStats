@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<extension key="com.chrischinchilla.fullmailstats" type="module">
+  <file>fullmailstats</file>
+  <name>Full Mail Stats</name>
+  <description>A very simple extension that adds percentages to the mailing report for opens and clicks.</description>
+  
+      <urls>
+    <url desc="Main Extension Page"></url>
+    <url desc="Documentation">https://github.com/ChrisChinchilla/fullmailstats/blob/master/readme.txt</url>
+    <url desc="Support">chriswhward@gmail.com</url>
+    <url desc="Licensing"></url>
+  </urls>
+  
+  <license></license>
+  <maintainer>
+    <author>Chris Ward</author>
+    <email>chriswhward@gmail.com</email>
+  </maintainer>
+  <releaseDate>2012-09-22</releaseDate>
+  <version>1.0</version>
+  <develStage>stable</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/Fullmailstats</namespace>
+  </civix>
+</extension>

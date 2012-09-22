@@ -1,0 +1,1 @@
+A very simple extension that adds percentages to the mailing report for opens and clicks. Simply enable to use.
